@@ -1,16 +1,18 @@
 ## Hello!
 
-I'm a third year student of Computer Technologies Department in ITMO University
+I'm a fourth year student of Computer Technologies Department in ITMO University
+Working as web developer in Vk
+Finished frontend internship in Yandex
 
 ### Technology stack:
-- **TypeScript, React, Preact, Vanilla js, Node.js** - worked as intern frontend developer in Yandex, Computer Science Center course in progress, my mainly used technology stack
-- **Java** - practiced spring WEB-development on Java and OOP at university,
-- **Python** - worked as intern in Polymetall on complex math and physics calculations, data analysis course in progress
-- **C/C++** - sufficient knowledge for programming algorithms
-- **Clojure**, **Prolog** - basic knowledge from university course
+- TS, JS, React, Preact, Mobx, HTML, CSS
+- Java Spring
+- Python + libs for web and ML
+- C/C++ sufficient knowledge for implementing algorithms
+- Haskell, Kotlin, Clojure, Prolog fairly good knowledge
 
 Other useful skills:
 - git widespread use
-- bash (and other similar terminal script languages) and linux/macOs/windows
-- english level C1, excellent for communicating, reading docs and searching info
+- bash/zsh
+- english C2, excellent for communicating, reading docs and searching info
 - teamwork
