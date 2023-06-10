@@ -6,5 +6,5 @@ Previously worked at Yandex, Polymetal
 Have a bachelor degree in CS  
 
 You can reach me via:
-- Telegram: t.me/alkrp
+- Telegram: https://t.me/alkrp
 - Email: popov.aleksandr.v@yandex.ru
