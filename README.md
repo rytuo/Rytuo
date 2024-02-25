@@ -1,6 +1,6 @@
 ## Hello!
 
-I am a software developer keen on web technoligies  
+I am a software engineer keen on web technoligies  
 Currently working in OK  
 Previously worked at Yandex, Polymetal  
 Have a bachelor degree in CS  
